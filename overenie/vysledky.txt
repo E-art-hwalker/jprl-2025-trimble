@@ -1,0 +1,9 @@
+Zdroj NLC JTSK03: 585328 polygonov
+[SHP_JTSK03] suborov 506, polygonov 585328 (zdroj 585328), rovnaka mnozina IDJPRL: True, porasty s pripojenym opisom: 463529 / 463529
+[SHP_SJTSK] suborov 506, polygonov 585328 (zdroj 585328), rovnaka mnozina IDJPRL: True, porasty s pripojenym opisom: 463529 / 463529
+[SHP_ETRS89] suborov 506, polygonov 585328 (zdroj 585328), rovnaka mnozina IDJPRL: True, porasty s pripojenym opisom: 463529 / 463529
+[SHP_JTSK03 vs NLC JTSK03] Hausdorff p50/p99/max [m]: [0. 0. 0.]
+[SHP_SJTSK vs NLC S-JTSK] Hausdorff p50/p99/max [m]: [0.0001 0.0001 0.0001]
+[SHP_ETRS89 -> JTSK03 klucom GKU vs zdroj] odchylka p50/p99/max [m]: [0.0135 0.0137 0.0138] bodov 30298893
+[DXF_JTSK03] suborov 506, nesuladov s SHP: 0
+[DXF_SJTSK] suborov 506, nesuladov s SHP: 0
